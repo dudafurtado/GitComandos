@@ -50,6 +50,8 @@ Possibilita que várias pessoas tenham acesso aos dados do documento e assim ver
  - *git checkout*  
  Para navegar em outras branchs é preciso após o comando adicionar o nome da branch já existente.  
  Caso haja a necessidade de criar uma branch nova utilizamo o "-b" e o nome.
+ 
+ !! Para facilitar as mudanças para stage podemos usar: *git add . && git commit -m ""*
 
 ### Branch
 Ramificações de um arquivo.  
