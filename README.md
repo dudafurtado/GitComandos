@@ -51,6 +51,12 @@ Possibilita que várias pessoas tenham acesso aos dados do documento e assim ver
  Para navegar em outras branchs é preciso após o comando adicionar o nome da branch já existente.  
  Caso haja a necessidade de criar uma branch nova utilizamo o "-b" e o nome.
  
+ - *git branch -d nomeDoBranchLocal*  
+ Para excluir uma branch do repositório local
+ 
+ - *git push origin --delete nomeDoBranchRemoto*
+ Para excluir uma branch no repositório remoto
+ 
  !! Para facilitar as mudanças para stage podemos usar: *git add . && git commit -m ""*
 
 ### Branch
